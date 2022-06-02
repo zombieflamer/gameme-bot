@@ -1,0 +1,35 @@
+{
+  "name": "gameme-bot",
+  "version": "1.4",
+  "description": "A simple discord bot that shows players rank using gameme api.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "country-emoji": "^1.5.6",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "epoch-timeago": "^1.1.9",
+    "express": "^4.17.1",
+    "graceful-fs": "^4.2.4",
+    "install": "^0.13.0",
+    "node-fetch": "^2.6.6",
+    "npm": "^8.9.0",
+    "timestamp-conv": "^3.0.0",
+    "xml-js": "^1.6.11"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": "https://github.com/zombieflamer/gameme-bot/",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "bot",
+    "discord",
+    "gameme",
+    "api"
+  ],
+  "author": "KeemROH-Development, Cyclops"
+}

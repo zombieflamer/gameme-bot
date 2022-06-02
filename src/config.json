@@ -1,0 +1,23 @@
+{
+    "token":"",
+    "prefix":"r!",
+    "playersinfo": {
+        "dm":"http://stats.zombieflamer.com/api/playerinfo/css3",
+        "zr":"http://stats.zombieflamer.com/api/playerinfo/css2",
+        "de":"http://stats.zombieflamer.com/api/playerinfo/css4"
+    },
+    "serverslist": {
+        "dm":"http://stats.zombieflamer.com/api/serverlist/address/108.61.237.99:27015",
+        "zr":"http://stats.zombieflamer.com/api/serverlist/address/108.61.122.187:27015",
+        "de":"http://stats.zombieflamer.com/api/serverlist/address/108.61.122.31:27015"
+    },
+    "playerslist": {
+        "dm":"http://stats.zombieflamer.com/api/playerlist/css3",
+        "zr":"http://stats.zombieflamer.com/api/playerlist/css2",
+        "de":"http://stats.zombieflamer.com/api/playerlist/css4"
+    },
+    "embedColor":"#00E0FF",
+    "administrators":[
+        "604034501210800128"
+    ]
+}
