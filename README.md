@@ -34,4 +34,4 @@ node .
 **r!help** - Shows all the commands you can use\
 **r!pinfo** - To display information about a server, usage: r!sinfo `<server>`\
 **r!sinfo** - To display information about a player, usage: r!pinfo `<steamid>` `<server>`\
-**r!top** - To display the Top 40 players in the server!, usage: r!top `<server>`
+**r!top** - To display the Top 40 players in the server, usage: r!top `<server>`
